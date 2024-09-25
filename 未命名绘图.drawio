@@ -4,10 +4,10 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="IMBD8sZkuqatLbq9cF6B-1" value="课程" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="IMBD8sZkuqatLbq9cF6B-1" value="课程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-100" y="650" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IMBD8sZkuqatLbq9cF6B-2" value="学生" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="IMBD8sZkuqatLbq9cF6B-2" value="学生" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-100" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IMBD8sZkuqatLbq9cF6B-3" value="选修" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
