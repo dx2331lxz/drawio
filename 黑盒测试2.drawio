@@ -1,14 +1,23 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.2">
   <diagram name="第 1 页" id="qo__FnGVe26ZZZeS4IPS">
-    <mxGraphModel dx="1781" dy="525" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2295" dy="808" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="n4JBOWXjH9mU0pEgpQ5--46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="n4JBOWXjH9mU0pEgpQ5--1" target="n4JBOWXjH9mU0pEgpQ5--12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="n4JBOWXjH9mU0pEgpQ5--1" value="启动售货机" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="50" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="n4JBOWXjH9mU0pEgpQ5--48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="n4JBOWXjH9mU0pEgpQ5--4" target="n4JBOWXjH9mU0pEgpQ5--5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="n4JBOWXjH9mU0pEgpQ5--4" value="显示主菜单：&lt;div&gt;&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;.AppleSystemUIFontMonospaced&amp;quot;; text-align: start;&quot; class=&quot;p1&quot;&gt;&lt;span class=&quot;Apple-converted-space&quot;&gt;|&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(20, 0, 196);&quot; class=&quot;s1&quot;&gt;1&lt;/span&gt;: 投入&lt;span style=&quot;color: rgb(20, 0, 196);&quot; class=&quot;s1&quot;&gt;5&lt;/span&gt;角&lt;span class=&quot;Apple-converted-space&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;/span&gt;|&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;.AppleSystemUIFontMonospaced&amp;quot;; text-align: start;&quot; class=&quot;p1&quot;&gt;| &lt;span style=&quot;color: rgb(20, 0, 196);&quot; class=&quot;s1&quot;&gt;2&lt;/span&gt;: 投入&lt;span style=&quot;color: rgb(20, 0, 196);&quot; class=&quot;s1&quot;&gt;1&lt;/span&gt;元&lt;span class=&quot;Apple-converted-space&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;/span&gt;|&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;.AppleSystemUIFontMonospaced&amp;quot;; text-align: start;&quot; class=&quot;p1&quot;&gt;| &lt;span style=&quot;color: rgb(20, 0, 196);&quot; class=&quot;s1&quot;&gt;3&lt;/span&gt;: 选择啤酒 &lt;span class=&quot;Apple-converted-space&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;/span&gt;|&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;.AppleSystemUIFontMonospaced&amp;quot;; text-align: start;&quot; class=&quot;p1&quot;&gt;| &lt;span style=&quot;color: rgb(20, 0, 196);&quot; class=&quot;s1&quot;&gt;4&lt;/span&gt;: 选择橙汁 &lt;span class=&quot;Apple-converted-space&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;/span&gt;|&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;.AppleSystemUIFontMonospaced&amp;quot;; text-align: start;&quot; class=&quot;p1&quot;&gt;| &lt;span style=&quot;color: rgb(20, 0, 196);&quot; class=&quot;s1&quot;&gt;5&lt;/span&gt;: 设置零钱数量 &lt;span class=&quot;Apple-converted-space&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;/span&gt;|&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;.AppleSystemUIFontMonospaced&amp;quot;; text-align: start;&quot; class=&quot;p1&quot;&gt;| &lt;span style=&quot;color: rgb(20, 0, 196);&quot; class=&quot;s1&quot;&gt;0&lt;/span&gt;: 退出程序&lt;span class=&quot;Apple-converted-space&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;|&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="240" width="200" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="n4JBOWXjH9mU0pEgpQ5--49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="n4JBOWXjH9mU0pEgpQ5--5" target="n4JBOWXjH9mU0pEgpQ5--6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="n4JBOWXjH9mU0pEgpQ5--5" value="用户输入菜单选项" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="430" width="120" height="60" as="geometry" />
@@ -82,8 +91,16 @@
         <mxCell id="n4JBOWXjH9mU0pEgpQ5--11" value="退出" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="650" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="n4JBOWXjH9mU0pEgpQ5--47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="n4JBOWXjH9mU0pEgpQ5--12" target="n4JBOWXjH9mU0pEgpQ5--4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="n4JBOWXjH9mU0pEgpQ5--12" value="初始化售货机&lt;div&gt;设置零钱和硬币数量等参数&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n4JBOWXjH9mU0pEgpQ5--54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="n4JBOWXjH9mU0pEgpQ5--27" target="n4JBOWXjH9mU0pEgpQ5--4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-50" y="520" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="n4JBOWXjH9mU0pEgpQ5--27" value="更新当前余额" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="780" width="120" height="60" as="geometry" />
@@ -106,6 +123,11 @@
         </mxCell>
         <mxCell id="n4JBOWXjH9mU0pEgpQ5--30" value="余额是否够用" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="750" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="n4JBOWXjH9mU0pEgpQ5--55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.44;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="n4JBOWXjH9mU0pEgpQ5--31" target="n4JBOWXjH9mU0pEgpQ5--4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="890" y="640" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="n4JBOWXjH9mU0pEgpQ5--31" value="余额不足，返回主菜单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="840" width="120" height="60" as="geometry" />
@@ -137,6 +159,11 @@
         </mxCell>
         <mxCell id="n4JBOWXjH9mU0pEgpQ5--34" value="发放找零，并更新硬币数量" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="1040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n4JBOWXjH9mU0pEgpQ5--56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.995;entryY=0.44;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="n4JBOWXjH9mU0pEgpQ5--43" target="n4JBOWXjH9mU0pEgpQ5--4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="610" y="780" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="n4JBOWXjH9mU0pEgpQ5--43" value="返回主菜单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="1040" width="120" height="60" as="geometry" />
