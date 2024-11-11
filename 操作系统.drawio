@@ -1,9 +1,42 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.4">
   <diagram name="第 1 页" id="qY9-3QdtygsRkXZTiwaH">
-    <mxGraphModel>
+    <mxGraphModel dx="954" dy="525" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="PaulJ9rmSxcoSPh3Q1r1-10" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="110" y="120" width="200" height="222" as="geometry" />
+        </mxCell>
+        <mxCell id="PaulJ9rmSxcoSPh3Q1r1-5" value="" style="swimlane;startSize=0;" vertex="1" parent="PaulJ9rmSxcoSPh3Q1r1-10">
+          <mxGeometry y="22" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="PaulJ9rmSxcoSPh3Q1r1-6" value="BIOS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="PaulJ9rmSxcoSPh3Q1r1-5">
+          <mxGeometry x="40" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PaulJ9rmSxcoSPh3Q1r1-7" value="Grub前一部分" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="PaulJ9rmSxcoSPh3Q1r1-5">
+          <mxGeometry x="40" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PaulJ9rmSxcoSPh3Q1r1-9" value="Stage1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="PaulJ9rmSxcoSPh3Q1r1-10">
+          <mxGeometry x="70" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PaulJ9rmSxcoSPh3Q1r1-13" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="420" y="118" width="200" height="224" as="geometry" />
+        </mxCell>
+        <mxCell id="PaulJ9rmSxcoSPh3Q1r1-11" value="" style="swimlane;startSize=0;" vertex="1" parent="PaulJ9rmSxcoSPh3Q1r1-13">
+          <mxGeometry y="24" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="PaulJ9rmSxcoSPh3Q1r1-14" value="Grub剩余部分" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="PaulJ9rmSxcoSPh3Q1r1-11">
+          <mxGeometry x="40" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PaulJ9rmSxcoSPh3Q1r1-12" value="Stage2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="PaulJ9rmSxcoSPh3Q1r1-13">
+          <mxGeometry x="70" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PaulJ9rmSxcoSPh3Q1r1-15" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="322" y="-76" width="76" height="314" as="geometry" />
+        </mxCell>
+        <mxCell id="PaulJ9rmSxcoSPh3Q1r1-16" value="bootloader" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="320" y="18" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
