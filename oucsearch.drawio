@@ -161,6 +161,39 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="cAnIm7mQu4dJnn0wb-5Q-41" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="1220" width="500" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="cAnIm7mQu4dJnn0wb-5Q-43" value="index_%s" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="cAnIm7mQu4dJnn0wb-5Q-41">
+          <mxGeometry x="20" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cAnIm7mQu4dJnn0wb-5Q-44" value="index1_%s" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="cAnIm7mQu4dJnn0wb-5Q-41">
+          <mxGeometry x="330" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cAnIm7mQu4dJnn0wb-5Q-45" value="index_table_status" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="cAnIm7mQu4dJnn0wb-5Q-41">
+          <mxGeometry x="20" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cAnIm7mQu4dJnn0wb-5Q-46" value="page_%s" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="cAnIm7mQu4dJnn0wb-5Q-41">
+          <mxGeometry x="330" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cAnIm7mQu4dJnn0wb-5Q-42" value="mysql" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="505" y="1218" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cAnIm7mQu4dJnn0wb-5Q-47" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="880" y="1220" width="330" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="cAnIm7mQu4dJnn0wb-5Q-48" value="分词列表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="cAnIm7mQu4dJnn0wb-5Q-47">
+          <mxGeometry x="30" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cAnIm7mQu4dJnn0wb-5Q-50" value="urls待爬取列表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="cAnIm7mQu4dJnn0wb-5Q-47">
+          <mxGeometry x="190" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cAnIm7mQu4dJnn0wb-5Q-51" value="all_urls集合" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="cAnIm7mQu4dJnn0wb-5Q-47">
+          <mxGeometry x="20" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cAnIm7mQu4dJnn0wb-5Q-52" value="visited_urls集合" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="cAnIm7mQu4dJnn0wb-5Q-47">
+          <mxGeometry x="190" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
